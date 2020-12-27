@@ -1,1 +1,3 @@
 # Web-Application-Mini-Project
+------E-Farm Management System-------
+The main objective of the project is to build a website which help farmers from Indian villages to sell their products. Here if suppose some village farmers want to learn how is it possible, they can use and experience the E-Farming Management System to sell their products. If they have knowledge of computer then they can directly register in the site and sell their products, otherwise they can  contact computer proffessional who will schedule classes to teach them basics of computer and internet like how they can open this site and register with it and sell their products online and etc. On the other side buyer from town can also register and buy products as per their needs.   
